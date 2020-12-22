@@ -1,0 +1,116 @@
+
+form{
+    box-sizing:border-box;
+    width:700px;
+    height:50px;
+    color: rgb(97, 124, 212) -4px -5px 5px;
+    position: absolute;
+    left: 35%;
+    line-height: 10px;
+}
+td{
+    padding-bottom: 10px;
+    line-height: 40px;
+    color: rgb(40, 4, 73);
+    font-weight: bold;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow:rgb(136, 230, 230) -4px -5px 5px;
+}
+
+
+input{
+    line-height: 40px;
+    color:white;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    border-radius: 10px;
+    border-width: 2px;
+    height: 25px;
+    
+}
+h1{
+    text-align: center;
+    padding-bottom: 5px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(73, 38, 228);
+    text-shadow: 2px 1px 2px aqua;
+}
+
+body{
+    background-image: url('best home interior designs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+.box{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgb(100, 29, 167);
+    background-color:lavender;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(40, 4, 73);
+    width: fit-content;
+    cursor: pointer;
+    font-weight: 10000;
+    box-shadow:0px 3px 5px rgb(13, 8, 54) ;
+}
+.box:hover{
+    border-color: blue;
+    background-color: lavender;
+    height: 28px;
+    box-shadow:4px 5px 5px rgb(57, 57, 199) ;
+    
+    
+}
+    
+#box1{
+    border-radius: 5px;
+    font-size: 20px;
+    width: 60px;
+    cursor: pointer;
+}
+label{
+    color: rgb(6, 58, 6);
+    font-size: 25px;
+    text-shadow: 2px 1px 2px orangered;
+}
+
+#submit{
+    height: 40px;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+    width: fit-content;
+    border-color:aqua;
+    border-width: 1.8px;
+    margin-right: -100px;
+    font-weight: bold;
+    opacity: 0.8;
+    margin-top: 17px;
+    color:white;
+    background-color:rgb(1, 1, 160);
+    
+    
+}
+    
+#submit:hover
+{
+    opacity: 1;
+    font-size:21px;
+    box-shadow: 0 5px 50px 0 blue inset,0 5px 50px 0 rgba(255, 255, 255, 0.699),0 5px 0 rgba(255, 255, 255, 0.699) inset, 0 5px 50px 0 rgba(255, 255, 255, 0.699);
+    border-color:rgb(54, 6, 99);
+    color: white;
+}
+#message{
+    text-decoration: none;
+    color:red;
+    font-size:15px;
+    text-shadow: 2px 1px 2px yellow;
+}
+#15f4ee
+
