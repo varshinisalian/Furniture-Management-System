@@ -6,5 +6,7 @@ The customers can only view the products and purchase the products. Customers ca
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/68883142/102886863-eb0b8900-447b-11eb-972d-fdc05c68f336.png)
 ![Screenshot (181)](https://user-images.githubusercontent.com/68883142/102886982-1e4e1800-447c-11eb-9cea-66be76f4a029.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/68883142/102887080-40479a80-447c-11eb-94cd-39f9b18fb167.png)
+
 
 
